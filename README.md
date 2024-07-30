@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">❤️ I Proactive professional and passionate about technology, with a strong ability to collaborate and build relationships in teams. Detail-oriented and committed to delivering high-quality solutions, always striving to improve my skills and contribute to innovative projects..</p>&nbsp;
+<p align="center">❤️ I'm Proactive professional and passionate about technology, with a strong ability to collaborate and build relationships in teams. Detail-oriented and committed to delivering high-quality solutions, always striving to improve my skills and contribute to innovative projects..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EsdrasCorrea&theme=radical&mode=weekly" />
